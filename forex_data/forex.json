@@ -1,15 +1,15 @@
 {
   "rates": {
     "EURUSD": {
-      "rate": 1.181272,
+      "rate": 1.1785558,
       "timestamp": 1532429549281
     },
     "USDCNY": {
-      "rate": 6.524601,
+      "rate": 6.5393104,
       "timestamp": 1532429549281
     },
     "USDGBP": {
-      "rate": 0.73056,
+      "rate": 0.72612721,
       "timestamp": 1532429549281
     }
   },
