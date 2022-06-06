@@ -11,8 +11,8 @@
 <button onclick="secondFunction()">Prova</button>
 
 <script>
-function myFunction() {
-  alert("Hello! I am an alert box!");
+function myFunction(value) {
+  alert("Hello! ${value}");
 }
   
 function secondFunction(){window.CHANNEL_NAME.postMessage('Hello from JS');  }
